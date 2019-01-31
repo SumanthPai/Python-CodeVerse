@@ -1,2 +1,2 @@
 # Python-CodeVerse
-A smaple set of Python Programs covering all concepts
+A sample set of Python Programs covering all concepts
